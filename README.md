@@ -10,4 +10,4 @@ With heavy hearts, we turned to each other and asked if we could carry on.
 
 ## Yes, we will keep hacking
 
-We got our hands on a leap motion controller and came up with this.
+We got our hands on a leap motion controller and came up with this. **Note: we cloned a vr visualization repo for the hand motion capture [leap motion github](https://github.com/leapmotion/UnityModules)**
