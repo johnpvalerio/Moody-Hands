@@ -1,4 +1,4 @@
-##Moody Hands
+## Moody Hands
 
 We came together with a single purpose: to fill the world with music, **but** through the tips of your hands. Moody hands **actually** lets you play with music. Move your hands and change the flow of the notes. The music lives within you.
 
