@@ -16,6 +16,7 @@ We got our hands on a leap motion controller and came up with this. **Note: we c
 **You can add your own songs!**
 
 [mood list 0](https://www.youtube.com/playlist?list=PLiU3RtKBcY8KvVxCrsNel4Rl8VCjCAWQS&jct=e8r5qhEJtMnqyOuhIlbf7XM5hTfyzQ&disable_polymer=1)
+![QR 0](https://raw.githubusercontent.com/johnpvalerio/Moody-Hands/master/frame%20(1).png)
 
 [mood list 1](https://www.youtube.com/playlist?list=PLiU3RtKBcY8JUlQleYKwOS--73QRt6Zad&jct=ivqTjmstnw921vrObeH8qqSA9yoiAw&disable_polymer=1)
 
