@@ -15,13 +15,13 @@ We got our hands on a leap motion controller and came up with this. **Note: we c
 ## Playlists for each mood
 **You can add your own songs!**
 
-[mood list 0] (https://www.youtube.com/playlist?list=PLiU3RtKBcY8KvVxCrsNel4Rl8VCjCAWQS&jct=e8r5qhEJtMnqyOuhIlbf7XM5hTfyzQ&disable_polymer=1)
+[mood list 0](https://www.youtube.com/playlist?list=PLiU3RtKBcY8KvVxCrsNel4Rl8VCjCAWQS&jct=e8r5qhEJtMnqyOuhIlbf7XM5hTfyzQ&disable_polymer=1)
 
-[mood list 1] (https://www.youtube.com/playlist?list=PLiU3RtKBcY8JUlQleYKwOS--73QRt6Zad&jct=ivqTjmstnw921vrObeH8qqSA9yoiAw&disable_polymer=1)
+[mood list 1](https://www.youtube.com/playlist?list=PLiU3RtKBcY8JUlQleYKwOS--73QRt6Zad&jct=ivqTjmstnw921vrObeH8qqSA9yoiAw&disable_polymer=1)
 
-[mood list 2] (https://www.youtube.com/playlist?list=PLiU3RtKBcY8I_FozYJ-3qMJPmJj-tg2Rf&jct=Zuw88ai84MB-UErT1ZZwYI6ITie3gg&disable_polymer=1)
+[mood list 2](https://www.youtube.com/playlist?list=PLiU3RtKBcY8I_FozYJ-3qMJPmJj-tg2Rf&jct=Zuw88ai84MB-UErT1ZZwYI6ITie3gg&disable_polymer=1)
 
-[mood list 3] (https://www.youtube.com/playlist?list=PLiU3RtKBcY8JHo-acuAvhKZmQIfknGGpR&jct=orXXa8Q3zxR6fc41EqQLPQGtkrtnWA&disable_polymer=1)
+[mood list 3](https://www.youtube.com/playlist?list=PLiU3RtKBcY8JHo-acuAvhKZmQIfknGGpR&jct=orXXa8Q3zxR6fc41EqQLPQGtkrtnWA&disable_polymer=1)
 
 ## Demo on Youtube
 
